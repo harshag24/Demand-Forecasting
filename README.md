@@ -37,6 +37,8 @@
        - QRF provided probabilistic insights, aligning with Amazon's approach of using quantile forecasts to manage demand uncertainty.
      - **Impact**: This project exemplifies the variety of forecasting methods Amazon employs, showcasing my ability to apply both traditional and advanced forecasting models, contributing toward accurate demand forecasting.
 
+#### 3. **Project 3: Progress Note Understanding for Assessment and Plan Reasoning - Attached Report **
+
 #### **Conclusion and Fit for Amazon Demand Forecasting Role**
 Through these projects, I’ve illustrated my skills across:
 1. **Data Preparation and Feature Engineering**: I employed data transformation techniques and created meaningful features that offered actionable insights into product and sales data.
